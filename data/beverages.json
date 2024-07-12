@@ -167,5 +167,445 @@
                 "description": "Pour the hot brewed coffee into the whiskey mixture and stir gently. Top with whipped cream."
             }
         ]
+    },
+    {
+        "title": "Turkish Coffee",
+        "description": "Turkish coffee is a traditional method of brewing unfiltered coffee. It's strong, rich, and often served with a side of sweet treats like Turkish delight.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Grind coffee beans to a very fine powder. Use a cezve (Turkish coffee pot) to brew the coffee with water and sugar (optional)."
+            },
+            {
+                "header": "Boil and Serve",
+                "description": "Bring the coffee to a boil over low heat. Pour into small cups, including the grounds. Let it sit briefly to allow the grounds to settle before serving."
+            }
+        ]
+    },
+    {
+        "title": "Vienna Coffee",
+        "description": "Vienna coffee is a luxurious coffee drink topped with whipped cream. It's often served as a dessert and can include flavors like chocolate or cinnamon.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew a strong cup of coffee using your preferred method. Add sugar to taste."
+            },
+            {
+                "header": "Whip the Cream",
+                "description": "In a separate bowl, whip heavy cream until it forms soft peaks."
+            },
+            {
+                "header": "Serve",
+                "description": "Pour the hot coffee into a cup and top generously with whipped cream. Optionally, sprinkle with cocoa powder or cinnamon for extra flavor."
+            }
+        ]
+    },
+    {
+        "title": "Vietnamese Iced Coffee",
+        "description": "Vietnamese iced coffee is a strong coffee drink sweetened with condensed milk, poured over ice. It's refreshing and popular in Vietnamese cuisine.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew strong coffee using a Vietnamese drip filter or French press."
+            },
+            {
+                "header": "Sweeten and Chill",
+                "description": "While the coffee is hot, stir in sweetened condensed milk to taste. Let the coffee cool to room temperature."
+            },
+            {
+                "header": "Serve",
+                "description": "Fill a glass with ice cubes and pour the sweetened coffee over the ice. Enjoy your refreshing Vietnamese iced coffee!"
+            }
+        ]
+    },
+    {
+        "title": "Doppio",
+        "description": "A doppio is simply a double shot of espresso. It's twice the amount of a regular espresso shot, providing a stronger and richer coffee flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Serve",
+                "description": "Serve immediately in a small cup. Enjoy the intense and concentrated coffee flavor of the doppio."
+            }
+        ]
+    },
+    {
+        "title": "Ristretto",
+        "description": "Ristretto is an espresso shot that's even more concentrated than a regular espresso, using less water to brew the coffee grounds. It's known for its intense flavor and robust character.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Grind coffee beans to a very fine consistency and tamp firmly into the portafilter of an espresso machine. Brew the espresso using a very small amount of water (about half the volume of a regular espresso shot)."
+            },
+            {
+                "header": "Serve",
+                "description": "Serve immediately in a small cup. Enjoy the strong and bold flavor of the ristretto."
+            }
+        ]
+    },
+    {
+        "title": "Café au Lait",
+        "description": "Café au lait is a French coffee drink made with equal parts of brewed coffee and steamed milk. It's similar to a latte but typically has a milder coffee flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew a strong cup of coffee using your preferred method."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat an equal amount of milk in a saucepan or using a milk frother until steaming."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the brewed coffee into a cup, then add the steamed milk. The ratio of coffee to milk should be 1:1."
+            }
+        ]
+    },
+    {
+        "title": "Cortado",
+        "description": "A cortado is a coffee drink that's equal parts espresso and steamed milk. It's popular in Spain and Portugal, known for its balanced flavor and smooth texture.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single or double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Steam an equal amount of milk until it's just steaming."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed milk into the espresso shot. The ratio of espresso to milk should be 1:1."
+            }
+        ]
+    },
+    {
+        "title": "Greek Frappé",
+        "description": "Greek frappé is a frothy iced coffee drink made with instant coffee, water, sugar, and milk. It's a popular summer beverage in Greece, known for its refreshing taste.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "In a shaker or blender, combine instant coffee, sugar, and a small amount of water. Shake or blend until frothy."
+            },
+            {
+                "header": "Serve",
+                "description": "Pour the frothy coffee mixture over ice cubes in a glass. Add milk to taste and stir well before enjoying your Greek frappé."
+            }
+        ]
+    },
+    {
+        "title": "Bulletproof Coffee",
+        "description": "Bulletproof coffee is a high-fat coffee drink made with brewed coffee, grass-fed butter, and MCT oil or coconut oil. It's popular among followers of low-carb and ketogenic diets.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew a strong cup of coffee using your preferred method."
+            },
+            {
+                "header": "Blend Ingredients",
+                "description": "In a blender, combine the hot coffee, grass-fed butter, and MCT oil or coconut oil. Blend until smooth and frothy."
+            },
+            {
+                "header": "Serve",
+                "description": "Pour the blended coffee into a mug and enjoy your creamy and energizing bulletproof coffee."
+            }
+        ]
+    },
+    {
+        "title": "Spanish Latte",
+        "description": "Spanish latte is a sweet and creamy coffee drink made with espresso and condensed milk. It's popular in Spain and has a rich, indulgent flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Sweeten and Heat the Milk",
+                "description": "In a saucepan, heat condensed milk until warm. Stir continuously to prevent burning."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the warm condensed milk into a glass, then add the brewed espresso. Stir gently to mix."
+            }
+        ]
+    },
+    {
+        "title": "Maple Pecan Coffee",
+        "description": "Maple pecan coffee is a sweet and nutty flavored coffee drink made with maple syrup, pecans, and cream. It's perfect for autumn and winter seasons.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew a strong cup of coffee using your preferred method."
+            },
+            {
+                "header": "Prepare the Maple Pecan Mixture",
+                "description": "In a saucepan, combine maple syrup, chopped pecans, and a small amount of water. Heat until the mixture is warm and fragrant."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the brewed coffee into a mug, then add the maple pecan mixture. Stir well and optionally top with whipped cream."
+            }
+        ]
+    },
+    {
+        "title": "Coconut Milk Latte",
+        "description": "Coconut milk latte is a dairy-free alternative to traditional lattes, made with espresso and coconut milk. It's creamy and has a hint of coconut flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Heat the Coconut Milk",
+                "description": "In a saucepan, heat coconut milk until it's just steaming. Avoid boiling."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed coconut milk into a cup, then add the brewed espresso. Stir gently to mix."
+            }
+        ]
+    },
+    {
+        "title": "Iced Caramel Macchiato",
+        "description": "Iced caramel macchiato is a refreshing coffee drink made with espresso, milk, vanilla syrup, and caramel drizzle. It's sweet, creamy, and perfect for warm days.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Sweeten and Chill the Milk",
+                "description": "In a glass, combine milk, vanilla syrup, and ice cubes. Stir well to mix."
+            },
+            {
+                "header": "Combine",
+                "description": "Slowly pour the brewed espresso over the milk mixture. Drizzle caramel sauce on top and serve immediately."
+            }
+        ]
+    },
+    {
+        "title": "Green Tea Latte",
+        "description": "Green tea latte, also known as matcha latte, is a creamy and antioxidant-rich drink made with matcha powder, milk, and a touch of sweetness. It has a vibrant green color and a slightly earthy flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Matcha",
+                "description": "In a bowl, whisk matcha powder with a small amount of hot water until smooth and frothy."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat milk in a saucepan or using a milk frother until it's just steaming. Avoid boiling."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed milk into a cup, then add the prepared matcha. Stir gently to mix and sweeten to taste."
+            }
+        ]
+    },
+    {
+        "title": "Chai Latte",
+        "description": "Chai latte is a spiced tea-based drink made with black tea, steamed milk, and a blend of spices such as cinnamon, cardamom, ginger, and cloves. It's creamy, aromatic, and comforting.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Chai Concentrate",
+                "description": "Brew a strong chai tea using black tea bags or loose leaf tea and a mixture of spices."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat milk in a saucepan or using a milk frother until it's just steaming."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the chai concentrate into a cup, then add the steamed milk. Stir gently to mix and sweeten to taste."
+            }
+        ]
+    },
+    {
+        "title": "Pumpkin Spice Latte",
+        "description": "Pumpkin spice latte is a seasonal coffee drink made with espresso, steamed milk, pumpkin pie spice, and topped with whipped cream. It's popular in the autumn months for its warm and comforting flavors.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Heat the Milk and Pumpkin Spice",
+                "description": "In a saucepan, heat milk and pumpkin pie spice until steaming. Stir continuously to blend the spices."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the spiced milk over the brewed espresso in a cup. Top with whipped cream and a sprinkle of pumpkin pie spice."
+            }
+        ]
+    },
+    {
+        "title": "Hazelnut Latte",
+        "description": "Hazelnut latte is a flavored coffee drink made with espresso, steamed milk, and hazelnut syrup. It has a nutty and slightly sweet flavor profile, perfect for hazelnut enthusiasts.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat milk in a saucepan or using a milk frother until it's just steaming."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed milk into a cup, then add hazelnut syrup. Pour the brewed espresso over the milk mixture and stir gently to mix."
+            }
+        ]
+    },
+    {
+        "title": "White Chocolate Mocha",
+        "description": "White chocolate mocha is a decadent coffee drink made with espresso, steamed milk, white chocolate sauce, and topped with whipped cream. It's sweet, creamy, and indulgent.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Heat the Milk and White Chocolate",
+                "description": "In a saucepan, heat milk and white chocolate sauce until steaming. Stir continuously to melt the chocolate."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the white chocolate milk mixture over the brewed espresso in a cup. Top with whipped cream and a drizzle of white chocolate sauce, if desired."
+            }
+        ]
+    },
+    {
+        "title": "Café con Leche",
+        "description": "Café con leche is a Spanish coffee drink made with equal parts of strong coffee and scalded milk. It's similar to a café au lait but has a stronger coffee flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew a strong cup of coffee using your preferred method."
+            },
+            {
+                "header": "Scald the Milk",
+                "description": "Heat milk in a saucepan until it's just below boiling point."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the scalded milk into a cup, then add the brewed coffee. Stir gently to mix and sweeten to taste."
+            }
+        ]
+    },
+    {
+        "title": "Turmeric Latte",
+        "description": "Turmeric latte, also known as golden milk, is a soothing and healthful drink made with turmeric, milk (dairy or plant-based), and spices such as ginger and cinnamon. It's known for its anti-inflammatory properties and vibrant color.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Turmeric Paste",
+                "description": "In a saucepan, combine turmeric powder, ginger powder, cinnamon, black pepper, and a small amount of water. Heat gently until it forms a paste."
+            },
+            {
+                "header": "Heat the Milk",
+                "description": "In another saucepan, heat milk until it's just steaming. Avoid boiling."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed milk into a cup, then add the prepared turmeric paste. Stir well to mix and sweeten to taste."
+            }
+        ]
+    },
+    {
+        "title": "Café Bombón",
+        "description": "Café bombón is a Spanish coffee drink made with espresso and sweetened condensed milk. It's rich, sweet, and perfect for those who enjoy a decadent coffee experience.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Sweeten the Milk",
+                "description": "In a small glass, pour sweetened condensed milk until it's about half full."
+            },
+            {
+                "header": "Combine",
+                "description": "Slowly pour the brewed espresso over the sweetened condensed milk. The layers will form naturally."
+            }
+        ]
+    },
+    {
+        "title": "Eggnog Latte",
+        "description": "Eggnog latte is a festive coffee drink made with espresso, steamed eggnog, and topped with nutmeg. It's rich, creamy, and perfect for the holiday season.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Heat the Eggnog",
+                "description": "In a saucepan, heat eggnog until it's just steaming. Avoid boiling."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed eggnog over the brewed espresso in a cup. Sprinkle with nutmeg and serve immediately."
+            }
+        ]
+    },
+    {
+        "title": "Mexican Mocha",
+        "description": "Mexican mocha is a spicy and chocolatey coffee drink made with espresso, hot chocolate, cinnamon, and a touch of chili powder. It's rich, warming, and perfect for chilly days.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Prepare the Hot Chocolate",
+                "description": "In a saucepan, heat milk and chocolate until the chocolate is melted and the mixture is smooth."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the hot chocolate mixture over the brewed espresso in a cup. Sprinkle with cinnamon and a pinch of chili powder, if desired."
+            }
+        ]
+    },
+    {
+        "title": "Red Eye",
+        "description": "Red eye is a coffee drink made by adding a shot of espresso to a cup of drip coffee. It's strong, bold, and perfect for those who need an extra kick of caffeine.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Brew Drip Coffee",
+                "description": "Brew a cup of drip coffee using your preferred method."
+            },
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the brewed drip coffee into a cup, then add the brewed espresso. Enjoy your strong and energizing red eye coffee."
+            }
+        ]
     }
 ]
