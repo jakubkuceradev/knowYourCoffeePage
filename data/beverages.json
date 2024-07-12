@@ -1,0 +1,171 @@
+[
+    {
+        "title": "Cappuccino",
+        "description": "A cappuccino is a beloved espresso-based hot coffee drink made with layering of espresso, steamed milk, and milk foam on top.",
+        "hasImage": true,
+        "imagePath": "./assets/cappuccino-image.jpg",
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Grind fresh coffee beans to a fine consistency and use an espresso machine to brew a single shot of espresso. If you don't have an espresso machine, you can use a stovetop espresso maker or brew a very strong coffee. Pour the brewed espresso into your coffee cup or mug."
+            },
+            {
+                "header": "Froth the Milk",
+                "description": "Heat milk in a saucepan over medium heat until hot, but not boiling. Use a milk frother or whisk vigorously until the milk is frothy and foamy. Adjust the frothing method based on your equipment and preference."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the frothed milk over the brewed espresso in your coffee cup or mug. You can create beautiful latte art by pouring the milk in a circular motion from a height. Enjoy your delicious cappuccino!"
+            }
+        ]
+    },
+    {
+        "title": "Latte",
+        "description": "A latte is a coffee drink made with espresso and steamed milk. It's known for its creamy texture and mild coffee flavor.",
+        "hasImage": false,
+        "imagePath": "./assets/latte-image.jpg",
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single or double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat milk in a saucepan or using a milk frother until steaming. The milk should be hot but not boiling."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the steamed milk over the brewed espresso in a coffee cup or mug. Hold back the froth with a spoon if you prefer. Latte art can be created by pouring the milk gently and steadily."
+            }
+        ]
+    },
+    {
+        "title": "Americano",
+        "description": "An Americano is a coffee drink prepared by diluting a shot of espresso with hot water, giving it a similar strength to drip coffee but with a distinct espresso flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single or double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Add Hot Water",
+                "description": "Add hot water to the espresso shot. The ratio of espresso to hot water can vary depending on your preference, typically 1:1 or 1:2."
+            },
+            {
+                "header": "Serve",
+                "description": "Enjoy your Americano as is or with milk and sugar according to your taste."
+            }
+        ]
+    },
+    {
+        "title": "Espresso",
+        "description": "Espresso is a concentrated coffee beverage brewed by forcing a small amount of nearly boiling water through finely ground coffee beans. It's strong and rich in flavor.",
+        "hasImage": false,
+        "imagePath": "./assets/espresso-image.jpg",
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Grind fresh coffee beans finely and tamp them firmly into an espresso machine's portafilter. Brew the espresso for about 25-30 seconds until a small amount (about 1 ounce) of concentrated coffee is extracted."
+            },
+            {
+                "header": "Serve",
+                "description": "Serve the espresso shot immediately in a small cup. It can be enjoyed plain or used as a base for other coffee beverages like lattes and cappuccinos."
+            }
+        ]
+    },
+    {
+        "title": "Mocha",
+        "description": "A mocha is a decadent coffee beverage that combines espresso, steamed milk, chocolate syrup or cocoa powder, and whipped cream.",
+        "hasImage": false,
+        "imagePath": "./assets/mocha-image.jpg",
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single or double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat milk and add chocolate syrup or cocoa powder. Froth or whisk until the milk is frothy and the chocolate is well incorporated."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the chocolate milk mixture over the brewed espresso. Top with whipped cream and a drizzle of chocolate syrup or cocoa powder, if desired."
+            }
+        ]
+    },
+    {
+        "title": "Macchiato",
+        "description": "A macchiato is a coffee drink made with espresso and a small amount of steamed milk, creating a bold and slightly creamy flavor.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Add Steamed Milk",
+                "description": "Steam a small amount of milk until frothy, then gently pour a dollop (or a 'mark') of frothed milk over the espresso shot."
+            },
+            {
+                "header": "Serve",
+                "description": "Serve immediately in a small cup. Enjoy the strong espresso flavor with a touch of creamy texture."
+            }
+        ]
+    },
+    {
+        "title": "Affogato",
+        "description": "An affogato is a simple yet luxurious Italian dessert or coffee-based beverage. It consists of a scoop of vanilla gelato or ice cream topped with a shot of hot espresso.",
+        "hasImage": false,
+        "imagePath": "./assets/affogato-image.jpg",
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a single shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Serve",
+                "description": "Place a scoop of vanilla gelato or ice cream in a small bowl or glass. Pour the hot espresso shot over the gelato. The espresso will melt the gelato, creating a delicious blend of hot and cold flavors."
+            }
+        ]
+    },
+    {
+        "title": "Flat White",
+        "description": "A flat white is a coffee drink originating from Australia and New Zealand, consisting of espresso with steamed milk. It's similar to a latte but has a higher coffee-to-milk ratio and a velvety texture.",
+        "hasImage": false,
+        "steps": [
+            {
+                "header": "Prepare the Espresso",
+                "description": "Brew a double shot of espresso using an espresso machine or a stovetop espresso maker."
+            },
+            {
+                "header": "Steam the Milk",
+                "description": "Heat milk until it's just steaming, then pour over the espresso. The milk should create a velvety texture without much froth."
+            },
+            {
+                "header": "Serve",
+                "description": "Serve immediately in a small cup. Enjoy the rich espresso flavor complemented by the smooth, velvety milk."
+            }
+        ]
+    },
+    {
+        "title": "Irish Coffee",
+        "description": "Irish coffee is a cocktail consisting of hot coffee, Irish whiskey, sugar, and topped with whipped cream. It's warming and perfect for chilly evenings.",
+        "hasImage": false,
+        "imagePath": "./assets/irish-coffee-image.jpg",
+        "steps": [
+            {
+                "header": "Prepare the Coffee",
+                "description": "Brew a strong cup of hot coffee using your preferred method."
+            },
+            {
+                "header": "Prepare the Whiskey",
+                "description": "In a glass, combine Irish whiskey with sugar to taste."
+            },
+            {
+                "header": "Combine",
+                "description": "Pour the hot brewed coffee into the whiskey mixture and stir gently. Top with whipped cream."
+            }
+        ]
+    }
+]
