@@ -118,7 +118,10 @@
     border-bottom: 1px solid grey;
 }
 .suggestions-item--container:hover {
-    background: #d2d2d2;
+    background-color: #d2d2d2;
+}
+.suggestions-item--focused {
+    background-color: #dcdcdc;
 }
 .suggestions-item--title {
     color: #000;
