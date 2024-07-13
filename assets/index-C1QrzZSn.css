@@ -22,6 +22,11 @@
     font-weight: 400;
     font-size: 2.5rem;
 }
+.header--button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .description--img {
     border-radius: 1.2rem;
 }
@@ -43,6 +48,7 @@
     right: 1rem;
     font-size: 20px;
     font-weight: 700;
+    color: black;
 }
 .preparation-item--header {
     color: #000;
@@ -93,6 +99,7 @@
     border-left: 1px solid grey;
     font-weight: 700;
     font-family: Rubik, Arial, Helvetica, sans-serif;
+    color: #000;
     font-size: 1rem;
 }
 .search-bar--clear:hover {
@@ -101,10 +108,9 @@
 .search-suggestions--container {
     width: 100%;
     top: 3rem;
-    max-height: 20rem;
     opacity: 100%;
     position: absolute;
-    overflow: auto;
+    overflow: hidden;
     background: #e6e6e6;
     box-shadow: 0 6px 4.2px 2px #00000040;
     border-radius: 1rem;
@@ -170,6 +176,7 @@ button {
     cursor: pointer;
     text-align: inherit;
     width: inherit;
+    color: inherit;
 }
 input {
     font-family: Montserrat, Arial, Helvetica, sans-serif;
