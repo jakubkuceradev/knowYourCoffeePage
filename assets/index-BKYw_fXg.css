@@ -1,32 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap";
 @import "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap";
-.header--container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-    background: linear-gradient(180deg, #00000080, #0000);
-}
-.header--title-light {
-    margin: 0;
-    margin-right: 0.4rem;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1.3rem;
-}
-.header--title-strong {
-    margin: 0;
-    font-family: Rubik Mono One, Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 2.5rem;
-}
-.header--button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 .description--img {
     border-radius: 1.2rem;
 }
@@ -35,6 +9,7 @@
 }
 .preparation-item--container {
     position: relative;
+    width: 100%;
     padding: 0.6rem 1rem;
     background-color: #fff;
     margin-bottom: 0.3rem;
@@ -48,7 +23,7 @@
     right: 1rem;
     font-size: 20px;
     font-weight: 700;
-    color: black;
+    color: #000;
 }
 .preparation-item--header {
     color: #000;
@@ -72,6 +47,53 @@
 @media (min-width: 500px) {
     .preparation-item--description {
         font-size: 1.2rem;
+    }
+}
+@media (min-width: 1600px) {
+    .preparation-item--description {
+        font-size: 1.5rem;
+    }
+}
+.header--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(180deg, #00000080, #0000);
+}
+.header--title-light {
+    margin: 0;
+    margin-right: 0.4rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+.header--title-strong {
+    margin: 0;
+    font-family: Rubik Mono One, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5rem;
+}
+.header--button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media (min-width: 500px) {
+    .header--title-light {
+        font-size: 1.5rem;
+    }
+    .header--title-strong {
+        font-size: 2.8rem;
+    }
+}
+@media (min-width: 1600px) {
+    .header--title-light {
+        font-size: 1.8rem;
+    }
+    .header--title-strong {
+        font-size: 3.2rem;
     }
 }
 .search--container {
@@ -135,6 +157,22 @@
 .suggestions-item--title {
     color: #000;
     margin: 0;
+}
+@media (min-width: 500px) {
+    .search-bar--input {
+        font-size: 1.3rem;
+    }
+    .search-suggestions--container {
+        top: 3.3rem;
+    }
+}
+@media (min-width: 1600px) {
+    .search-bar--input {
+        font-size: 1.6rem;
+    }
+    .search-suggestions--container {
+        top: 3.6rem;
+    }
 }
 *,
 *:before,
@@ -274,5 +312,22 @@ strong {
     }
     p {
         font-size: 1.3rem;
+    }
+}
+@media (min-width: 1600px) {
+    .container {
+        max-width: 800px;
+    }
+    h2 {
+        font-size: 2.8rem;
+    }
+    h3 {
+        font-size: 2.4rem;
+    }
+    h4 {
+        font-size: 1.6rem;
+    }
+    p {
+        font-size: 1.4rem;
     }
 }
